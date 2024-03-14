@@ -36,6 +36,7 @@ default_doc_texs = \
   poster-albs.tex \
   poster-ada-albs.tex \
   poster-deep3m-albs.tex \
+  poster-visit-day.tex \
 
 extra_doc_texs   = \
 
